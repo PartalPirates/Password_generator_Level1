@@ -2,6 +2,8 @@ import random
 import string
 
 Alphabet1=string.ascii_letters
+Alphabet1=string.ascii_lowercase
+Alphabet3=string.ascii_uppercase
 marks=string.punctuation
 Choices=Alphabet1+marks
 password=[]
